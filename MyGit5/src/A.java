@@ -5,7 +5,11 @@ public class A {
 		// TODO Auto-generated method stub
 System.out.println("aa");
 
+
 System.out.println("master a º¯°æ");
+
+System.out.println("devB aa");
+
 	}
 
 }
